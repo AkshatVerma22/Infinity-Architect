@@ -1,0 +1,14 @@
+.section-4{
+    height: 90vh;
+    background-image: url('images/villas.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+.section-4 {
+    color: white;
+    font-size: 40px;
+}
